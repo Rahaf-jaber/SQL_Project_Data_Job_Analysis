@@ -242,3 +242,7 @@ From the analysis, several general insights emerged:
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
 
 ### Acknowledgement
+
+I would like to acknowledge Luke Barousse for his excellent SQL course and tutorial, which served as the primary inspiration and guidance for this project. The dataset used in this analysis was provided as part of his course, and the overall project structure and problem framing were influenced by his instructional content.
+- 📺 YouTube: https://www.youtube.com/watch?v=7mz73uXD9DA  
+- 💻 GitHub: https://github.com/lukebarousse  
